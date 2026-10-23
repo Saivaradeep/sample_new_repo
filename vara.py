@@ -16,3 +16,4 @@ for subject in subjects:
     print("-", subject)
 print("\nTotal Subjects:", len(subjects))
 print("Student registration completed successfully!")
+print("everything is success")
